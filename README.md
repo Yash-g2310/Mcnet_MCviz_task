@@ -32,9 +32,11 @@ MCnet_MCviz_task/
 │   ├── basic_event_info.txt
 │   ├── event_info_json.json
 │   └── particle_interaction_networkx.html
+├── images/
 ├── app.py
 ├── README.md
 ├── requirements.txt
 ├── task2.ipynb
-└── top.lhe
+├── top.lhe
+└── app_output.md
 ```

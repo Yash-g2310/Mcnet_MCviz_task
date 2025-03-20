@@ -8,7 +8,7 @@ flask --app app run
 ```
 and navigating to [http://127.0.0.1:5000/](http://127.0.0.1:5000/), you will see the following interface:
 
-![Interface](image.png)
+![Interface](images/image.png)
 
 ### Things to note
 1. Events Object/JSON displays the initial conditions for the simulation and the number of events.
@@ -16,8 +16,8 @@ and navigating to [http://127.0.0.1:5000/](http://127.0.0.1:5000/), you will see
 
 After navigating to the given endpoint, you will see the following JSON on the page:
 
-![Event JSON](image-1.png)
-![Event JSON](image-2.png)
+![Event JSON](images/image-1.png)
+![Event JSON](images/image-2.png)
 
 > Note: These images show only part of the JSON; there are more particle objects.
 
