@@ -60,7 +60,7 @@ def convert_to_json(file_path):
             event_dict["particles"].append(particle_dict)
         dict["events"].append(event_dict)
     
-    output_file = 'event_info_json.json'
+    output_file = './output/event_info_json.json'
     with open(output_file, 'w') as f:
         json.dump(dict, f, indent=4)
     
